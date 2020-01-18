@@ -1,0 +1,8 @@
+class Write{
+ 
+  Write(){
+  
+  }
+  
+
+}
